@@ -1,0 +1,26 @@
+INFO:root:Iniciando processo do tratamento de dados: 01_04_2025__17_56_58
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Sem arquivos para tratamento
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Inicio do tratamento dos arquivos
+INFO:root:Tratamento do arquivo 1/1
+INFO:root:Salvando teste_upload.xlsx recebido na pasta de recebidos
+INFO:root:Salvando teste_upload.xlsx tratado na pasta de tratados
+INFO:root:Deletando teste_upload.xlsx da pasta de a_tratar
+INFO:root:Deletando teste_upload.xlsx da pasta local
+INFO:root:Montando JSON para salvar no banco de dados
+INFO:root:Enviando requisição para o backend
+INFO:root:[{'nome_pesquisa': 'GPTW#asdasd', 'created_date': '2025-04-01', 'nota_1': 27.5, 'nota_2': 32, 'media_pesquisa': 29.75}, {'nome_pesquisa': 'GPTW#adsasddsxx', 'created_date': '2025-04-01', 'nota_1': 58.5, 'nota_2': 92, 'media_pesquisa': 75.25}, {'nome_pesquisa': 'GPTW#13123134141243seas', 'created_date': '2025-04-01', 'nota_1': 18.5, 'nota_2': 86, 'media_pesquisa': 52.25}, {'nome_pesquisa': 'GPTW#asdas13123', 'created_date': '2025-04-01', 'nota_1': 96.5, 'nota_2': 63, 'media_pesquisa': 79.75}, {'nome_pesquisa': 'GPTW#Dad1323333', 'created_date': '2025-04-01', 'nota_1': 61.5, 'nota_2': 58, 'media_pesquisa': 59.75}, {'nome_pesquisa': 'GPTW#Easd123', 'created_date': '2025-04-01', 'nota_1': 59.0, 'nota_2': 16, 'media_pesquisa': 37.5}]
+ERROR:root:Erro durante envio da requisição (404): <bound method Response.json of <Response [404]>>
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Sem arquivos para tratamento
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Sem arquivos para tratamento
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Sem arquivos para tratamento

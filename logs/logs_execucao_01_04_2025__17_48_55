@@ -1,0 +1,26 @@
+INFO:root:Iniciando processo do tratamento de dados: 01_04_2025__17_48_55
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Sem arquivos para tratamento
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Inicio do tratamento dos arquivos
+INFO:root:Tratamento do arquivo 1/1
+INFO:root:Salvando teste_upload.xlsx recebido na pasta de recebidos
+INFO:root:Salvando teste_upload.xlsx tratado na pasta de tratados
+INFO:root:Deletando teste_upload.xlsx da pasta de a_tratar
+INFO:root:Deletando teste_upload.xlsx da pasta local
+INFO:root:Montando JSON para salvar no banco de dados
+INFO:root:Enviando requisição para o backend
+ERROR:root:Erro durante envio da requisição (404): <bound method Response.json of <Response [404]>>
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Sem arquivos para tratamento
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Sem arquivos para tratamento
+INFO:root:Baixando todos arquivos a serem tratados
+INFO:root:Coleta dos arquivos finalizada
+INFO:root:Sem arquivos para tratamento
+INFO:root:Baixando todos arquivos a serem tratados
